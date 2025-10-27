@@ -16,6 +16,9 @@ project:
     - title: Introduction
       children:
         - file: notebooks/notebook-template.ipynb
+    - title: Notebook
+      children:
+        - file: notebooks/.ipynb
   jupyter:
       binder:
         repo: projectpythia/cookbook-template
