@@ -1,6 +1,8 @@
 thumbnail: thumbnail.png
 tags:
   domains:
-    - sampledomain
+    - Climatology 
   packages:
-    - samplepackage
+    - xarray
+    - matplotlib
+    - numpy
