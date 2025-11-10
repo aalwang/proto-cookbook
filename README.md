@@ -1,4 +1,4 @@
-# Aidan's Prototype Cookbook
+# CMIP6 Global Precipitation Cookbook
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
@@ -7,15 +7,15 @@
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This Project Pythia Cookbook covers methods to analyze precipitation data from CMIP6 historical and future climate simulations. Including an analysis of spatial and temporal total precipitation trends and validation of historical runs vs. a reanalysis dataset (ECMWF ERA5).
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+The motivation for this cookbook is to provide useful calculations and visualizations of global precipitation in CMIP6 simulations. This can be applied to precipitation analysis of other datasets, along with the analysis of other variables included in CMIP6. 
 
 ## Authors
 
-[First Author](https://github.com/first-author1), [Second Author](https://github.com/second-author2), etc. _Acknowledge primary content authors here_
+Aidan Alwang (https://github.com/aalwang)
 
 ### Contributors
 
@@ -25,15 +25,15 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Structure
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
+This cookbook is broken into two primary sections including an  introduction and notebooks section. 
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### Introduction
 
-(Add content for this section, e.g., "The foundational content includes ... ")
+This provides an overview of the cookbooks data and motivation.
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+### Notebooks
 
-(Add content for this section, e.g., "Example workflows include ... ")
+The notebooks section holds two notebooks that contain the bulk of the content found in this cookbook. 
 
 ## Running the Notebooks
 
