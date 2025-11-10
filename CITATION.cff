@@ -7,7 +7,5 @@ authors:
     orcid: https://orcid.org/0009-0008-5260-2093 # optional
     website: https://github.com/aalwang # optional
     affiliation: University at Albany (State University of New York) # optional
-  - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
-    website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
 title: "Cookbook Template"
 abstract: "A sample cookbook description."
