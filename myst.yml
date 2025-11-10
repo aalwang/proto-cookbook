@@ -3,8 +3,8 @@ version: 1
 extends:
   - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
-  title: Prototype Project Repo
-  github: https://github.com/projectpythia/cookbook-template
+  title: CMIP6 Precipitation Analysis
+  github: https://github.com/projectpythia/CMIP6-Precipitation-Cookbook
   authors:
     - name: Aidan Alwang
   copyright: '2025'
@@ -13,12 +13,10 @@ project:
     - title: Preamble
       children:
         - file: notebooks/how-to-cite.md
-    - title: Introduction
+    - title: Notebooks
       children:
-        - file: notebooks/notebook-template.ipynb
-    - title: Notebook
-      children:
-        - file: notebooks/.ipynb
+        - file: notebooks/01_CMIP6_Precipitation_Analysis.ipynb
+        - file: notebooks/02_CMIP6_Precipitation_Vs_ERA5.ipynb
   jupyter:
       binder:
-        repo: projectpythia/cookbook-template
+        repo: projectpythia/CMIP6-Precipitation-Cookbook
