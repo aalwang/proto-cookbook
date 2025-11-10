@@ -1,4 +1,4 @@
-# CMIP6 Global Precipitation Cookbook
+# CMIP6 Precipitation Cookbook
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
