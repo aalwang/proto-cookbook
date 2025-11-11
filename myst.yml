@@ -4,7 +4,7 @@ extends:
   - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
   title: CMIP6 Precipitation Analysis
-  github: https://github.com/projectpythia/CMIP6-Precipitation-Cookbook
+  github: https://github.com/aalwang/proto-cookbook
   authors:
     - name: Aidan Alwang
   copyright: '2025'
